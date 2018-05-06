@@ -1,5 +1,7 @@
 # DeepLearningCaptionGenerator
-This deep learning application will be able to utilize a RNN LSTM model for the Flicker8k_Dataset and the Flickr8k_text to generate a new description for a given image. 
+This deep learning application will be able to utilize a RNN LSTM model for the Flicker8k_Dataset and the Flickr8k_text to generate a new description for a given image. The validation loss was attempted to be reduced through several methods including changing from VGG16 to 
+InceptionV3, changing the LSTM to 512, changing the adam optimizer to sgd, lowering the adam learning rate, and changing the dropout size. Details can be seen in the  
+paper Mammarelli-generating-image-captions.pdf
 
 ![alt text](example.jpg "example")
 
