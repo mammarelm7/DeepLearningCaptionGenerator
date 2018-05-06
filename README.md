@@ -1,7 +1,8 @@
 # DeepLearningCaptionGenerator
 This deep learning application will be able to utilize a RNN LSTM model for the Flicker8k_Dataset and the Flickr8k_text to generate a new description for a given image. 
 
-![alt text](example.jpg "startseq dog is running through the water endseq")
+![alt text](example.jpg "example")
+Generated Description: "startseq dog is running through the water endseq"
 
 ## Order to Run:
 
