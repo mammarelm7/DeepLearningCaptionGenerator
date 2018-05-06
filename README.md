@@ -29,3 +29,5 @@ Generates a tokenizer.pkl file which will be loaded when generating a new descri
 Generates a new description for a photo
 
 ### Note: Models are too large to upload, Flicker8k_Dataset and Flickr8k__text have a license not to distribute so was not uploaded. A request can be sent to https://forms.illinois.edu/sec/1713398 for the dataset.
+
+### Reference: https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
